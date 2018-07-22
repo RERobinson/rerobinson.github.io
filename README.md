@@ -1,2 +1,2 @@
-# rerobinson.github.io
-21st century commonplace book
+# Rachel's Blog
+This is my 21st century commonplace book
